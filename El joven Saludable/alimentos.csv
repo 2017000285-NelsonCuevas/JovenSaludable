@@ -1,0 +1,62 @@
+CORRELATIVO,TIEMPO_COMIDA,TIPO,ALIMENTO,CALORIAS
+1,Desayuno,Proteína,Ninguno,0
+2,Desayuno,Proteína,Huevo revuelto,155
+3,Desayuno,Proteína,Huevo duro,78
+4,Desayuno,Proteína,Jamón de pavo,60
+5,Desayuno,Carbohidrato,Ninguno,0
+6,Desayuno,Carbohidrato,Pan francés,180
+7,Desayuno,Carbohidrato,Pan integral,75
+8,Desayuno,Carbohidrato,Avena cocida,150
+9,Desayuno,Grasa,Ninguno,0
+10,Desayuno,Grasa,Mantequilla,102
+11,Desayuno,Grasa,Aguacate,120
+12,Desayuno,Grasa,Queso fresco,90
+13,Desayuno,Fruta,Ninguno,0
+14,Desayuno,Fruta,Banano,105
+15,Desayuno,Fruta,Papaya,60
+16,Desayuno,Fruta,Manzana,95
+17,Desayuno,Bebida,Ninguno,0
+18,Desayuno,Bebida,Café negro,5
+19,Desayuno,Bebida,Leche descremada,90
+20,Desayuno,Bebida,Jugo de naranja,110
+21,Almuerzo,Proteína,Ninguno,0
+22,Almuerzo,Proteína,Pollo a la plancha,220
+23,Almuerzo,Proteína,Carne asada,250
+24,Almuerzo,Proteína,Pescado,180
+25,Almuerzo,Carbohidrato,Ninguno,0
+26,Almuerzo,Carbohidrato,Arroz blanco,205
+27,Almuerzo,Carbohidrato,Tortillas de maíz,120
+28,Almuerzo,Carbohidrato,Pasta,220
+29,Almuerzo,Grasa,Ninguno,0
+30,Almuerzo,Grasa,Aguacate,120
+31,Almuerzo,Grasa,Queso fresco,90
+32,Almuerzo,Grasa,Crema,60
+33,Almuerzo,Fruta,Ninguno,0
+34,Almuerzo,Fruta,Piña,80
+35,Almuerzo,Fruta,Sandía,46
+36,Almuerzo,Fruta,Melón,60
+37,Almuerzo,Bebida,Ninguno,0
+38,Almuerzo,Bebida,Agua pura,0
+39,Almuerzo,Bebida,Limonada,99
+40,Almuerzo,Bebida,Gaseosa,150
+41,Cena,Proteína,Ninguno,0
+42,Cena,Proteína,Pollo cocido,200
+43,Cena,Proteína,Atún,120
+44,Cena,Proteína,Queso fresco,90
+45,Cena,Carbohidrato,Ninguno,0
+46,Cena,Carbohidrato,Pan integral,75
+47,Cena,Carbohidrato,Puré de papa,180
+48,Cena,Carbohidrato,Arroz blanco,205
+49,Cena,Grasa,Ninguno,0
+50,Cena,Grasa,Aguacate,120
+51,Cena,Grasa,Mantequilla,102
+52,Cena,Grasa,Crema,60
+53,Cena,Fruta,Ninguno,0
+54,Cena,Fruta,Manzana,95
+55,Cena,Fruta,Pera,101
+56,Cena,Fruta,Uvas,104
+57,Cena,Bebida,Ninguno,0
+58,Cena,Bebida,Agua pura,0
+59,Cena,Bebida,Té sin azúcar,2
+60,Cena,Bebida,Leche descremada,90
+
